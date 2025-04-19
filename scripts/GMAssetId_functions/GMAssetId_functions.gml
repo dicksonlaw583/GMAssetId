@@ -51,6 +51,14 @@ function object_get_index(name) {
 	return (asset_get_type(name) == asset_object) ? asset_get_index(name) : -1;
 }
 
+///@func part_system_get_index(name)
+///@param {String} name The name of the particle system to fetch, as a string.
+///@return {Asset.GMParticleSystem}
+///@desc Return the ID of the particle system with the given name. If it doesn't exist or is the wrong type, return -1.
+function part_system_get_index(name) {
+	return (asset_get_type(name) == asset_particlesystem) ? asset_get_index(name) : -1;
+}
+
 ///@func path_get_index(name)
 ///@param {String} name The name of the path to fetch, as a string.
 ///@return {Asset.GMPath}

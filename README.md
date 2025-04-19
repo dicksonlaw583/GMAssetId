@@ -28,6 +28,7 @@ GM1041 - The type 'Asset' appears where the type 'Asset.GMSprite' is expected.
 | Sound | `audio_sound_get_index(name)` |
 | Font | `font_get_index(name)` |
 | Object | `object_get_index(name)` |
+| Particle System | `part_system_get_index(name)` |
 | Path | `path_get_index(name)` |
 | Room | `room_get_index(name)` |
 | Script | `script_get_index(name)` |

@@ -21,6 +21,10 @@ function gmassetid_test_all() {
 	assert_equal(object_get_index("obj_doesntexist"), -1);
 	assert_equal(object_get_index("ac_gmassetid_test"), -1);
 	
+	assert_equal(part_system_get_index("ps_gmassetid_test"), ps_gmassetid_test);
+	assert_equal(part_system_get_index("ps_doesntexist"), -1);
+	assert_equal(part_system_get_index("ac_gmassetid_test"), -1);
+	
 	assert_equal(path_get_index("pth_gmassetid_test"), pth_gmassetid_test);
 	assert_equal(path_get_index("pth_doesntexist"), -1);
 	assert_equal(path_get_index("ac_gmassetid_test"), -1);

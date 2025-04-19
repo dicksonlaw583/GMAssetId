@@ -22,13 +22,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2022.0.3.85",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"GMAssetId",
   "resources":[
     {"id":{"name":"ac_gmassetid_test","path":"animcurves/ac_gmassetid_test/ac_gmassetid_test.yy",},},
     {"id":{"name":"fnt_gmassetid_test","path":"fonts/fnt_gmassetid_test/fnt_gmassetid_test.yy",},},
     {"id":{"name":"obj_gmassetid_test","path":"objects/obj_gmassetid_test/obj_gmassetid_test.yy",},},
+    {"id":{"name":"ps_gmassetid_test","path":"particles/ps_gmassetid_test/ps_gmassetid_test.yy",},},
     {"id":{"name":"pth_gmassetid_test","path":"paths/pth_gmassetid_test/pth_gmassetid_test.yy",},},
     {"id":{"name":"rm_gmassetid_test","path":"rooms/rm_gmassetid_test/rm_gmassetid_test.yy",},},
     {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},},
