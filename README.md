@@ -1,6 +1,6 @@
 # GM Asset ID
 
-Strong-typed replacements for `asset_get_index` in GameMaker 2022.0.3+
+Strong-typed replacements for `asset_get_index` in GameMaker 2024.11+
 
 ## Overview
 
@@ -12,7 +12,7 @@ GM1041 - The type 'Asset' appears where the type 'Asset.GMSprite' is expected.
 
 ## Requirements
 
-- GameMaker 2022.0.3 LTS or above
+- GameMaker 2024.11.0.179 or above
 
 ## Installation
 
