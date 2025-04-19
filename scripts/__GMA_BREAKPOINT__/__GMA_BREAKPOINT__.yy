@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "__GMA_BREAKPOINT__",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "GMAssert",
-    "path": "folders/Libraries_config/GMAssert.yy",
+  "$GMScript":"v1",
+  "%Name":"__GMA_BREAKPOINT__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__GMA_BREAKPOINT__",
+  "parent":{
+    "name":"GMAssert",
+    "path":"folders/Libraries_config/GMAssert.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "GMAssetId_functions",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "GMAssetId",
-    "path": "folders/Libraries/GMAssetId.yy",
+  "$GMScript":"v1",
+  "%Name":"GMAssetId_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GMAssetId_functions",
+  "parent":{
+    "name":"GMAssetId",
+    "path":"folders/Libraries/GMAssetId.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "GMAssert_Boolean",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "GMAssert",
-    "path": "folders/Libraries/GMAssert.yy",
+  "$GMScript":"v1",
+  "%Name":"GMAssert_Boolean",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GMAssert_Boolean",
+  "parent":{
+    "name":"GMAssert",
+    "path":"folders/Libraries/GMAssert.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
